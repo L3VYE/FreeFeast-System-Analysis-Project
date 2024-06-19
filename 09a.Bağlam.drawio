@@ -1,0 +1,106 @@
+<mxfile host="Electron" modified="2024-05-07T11:22:00.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="nwcYjGDL9HrRzvImk57R" version="24.1.0" type="device">
+  <diagram name="Sayfa -1" id="MfSLXrImfOUiVQUGTLpp">
+    <mxGraphModel dx="2261" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="na73IyhjL6tXmZK1OvMJ-11" value="&lt;b&gt;&lt;font color=&quot;#cc0066&quot; style=&quot;font-size: 15px;&quot;&gt;Erişim Politikaları&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="na73IyhjL6tXmZK1OvMJ-1" target="na73IyhjL6tXmZK1OvMJ-7" edge="1">
+          <mxGeometry x="-0.3468" y="1" relative="1" as="geometry">
+            <mxPoint x="210" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="194" y="371" />
+              <mxPoint x="575" y="371" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="na73IyhjL6tXmZK1OvMJ-22" value="Restoranlar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontColor=#CC0066;fontSize=15;fontStyle=1" parent="1" source="na73IyhjL6tXmZK1OvMJ-1" edge="1">
+          <mxGeometry x="0.3116" y="-4" relative="1" as="geometry">
+            <mxPoint x="104" y="610" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="na73IyhjL6tXmZK1OvMJ-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;FreeFeast Platformu&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="74" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="na73IyhjL6tXmZK1OvMJ-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Restoran Sahibi&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#CC0066;labelPosition=center;align=center;labelBorderColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="160" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="na73IyhjL6tXmZK1OvMJ-4" value="Restoran Bilgileri" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#CC0066;fontStyle=1;textShadow=1;" parent="1" source="na73IyhjL6tXmZK1OvMJ-3" edge="1">
+          <mxGeometry x="-0.4624" relative="1" as="geometry">
+            <mxPoint x="160" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="200" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="na73IyhjL6tXmZK1OvMJ-5" value="&lt;font size=&quot;1&quot; color=&quot;#cc0066&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Analitik Müşteri Geridönüşleri&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="na73IyhjL6tXmZK1OvMJ-3" edge="1">
+          <mxGeometry x="-0.2338" relative="1" as="geometry">
+            <mxPoint x="200" y="320" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="na73IyhjL6tXmZK1OvMJ-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Veri Tabanı ve Uygulama Güvenlik Ekibi&lt;/b&gt;&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#CC0066;labelPosition=center;align=center;labelBorderColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="470" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="na73IyhjL6tXmZK1OvMJ-8" value="&lt;b&gt;&lt;font color=&quot;#cc0066&quot; style=&quot;font-size: 15px;&quot;&gt;Veri Yedekleme&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="na73IyhjL6tXmZK1OvMJ-7" edge="1">
+          <mxGeometry x="-0.2644" relative="1" as="geometry">
+            <mxPoint x="190" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="505" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="na73IyhjL6tXmZK1OvMJ-18" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#cc0066&quot;&gt;Filtreler&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="na73IyhjL6tXmZK1OvMJ-14" target="na73IyhjL6tXmZK1OvMJ-1" edge="1">
+          <mxGeometry x="-0.2638" y="15" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-250" y="200" />
+              <mxPoint x="104" y="200" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="na73IyhjL6tXmZK1OvMJ-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Müşteri&lt;/b&gt;&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.three_corner_round_rect;dx=6;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#CC0066;dashed=1;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="160" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="na73IyhjL6tXmZK1OvMJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="na73IyhjL6tXmZK1OvMJ-1" target="na73IyhjL6tXmZK1OvMJ-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="na73IyhjL6tXmZK1OvMJ-17" value="&lt;b&gt;&lt;font color=&quot;#cc0066&quot; style=&quot;font-size: 14px;&quot;&gt;Restoran Bilgileri&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="na73IyhjL6tXmZK1OvMJ-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.0395" y="3" relative="1" as="geometry">
+            <mxPoint x="46" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="na73IyhjL6tXmZK1OvMJ-20" value="&lt;b&gt;&lt;font color=&quot;#cc0066&quot; style=&quot;font-size: 15px;&quot;&gt;Servis API&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.075;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="na73IyhjL6tXmZK1OvMJ-19" target="na73IyhjL6tXmZK1OvMJ-1" edge="1">
+          <mxGeometry x="-0.4536" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="na73IyhjL6tXmZK1OvMJ-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Harici Harita Uygulamaları&lt;/b&gt;&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.three_corner_round_rect;dx=6;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#CC0066;dashed=1;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="470" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="na73IyhjL6tXmZK1OvMJ-21" value="&lt;b&gt;&lt;font color=&quot;#cc0066&quot; style=&quot;font-size: 15px;&quot;&gt;Konum Bilgisi&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="na73IyhjL6tXmZK1OvMJ-1" target="na73IyhjL6tXmZK1OvMJ-19" edge="1">
+          <mxGeometry x="-0.3523" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="na73IyhjL6tXmZK1OvMJ-24" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Blog Yazarları&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;(Influencerlar)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;fillColor=#ffe6cc;strokeColor=#CC0066;dashed=1;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="74" y="610" width="116" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="na73IyhjL6tXmZK1OvMJ-25" value="&lt;font color=&quot;#cc0066&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Bloglar&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.592;entryY=1.117;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.664;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="na73IyhjL6tXmZK1OvMJ-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="654.48" as="sourcePoint" />
+            <mxPoint x="149.03999999999996" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="606" />
+              <mxPoint x="150" y="516" />
+              <mxPoint x="149" y="516" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
